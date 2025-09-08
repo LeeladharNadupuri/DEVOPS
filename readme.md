@@ -1,2 +1,2 @@
 # Hello this is Leeladhar
-iam a BCA student
+i am a BCA student
